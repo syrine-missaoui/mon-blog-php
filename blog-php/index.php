@@ -4,7 +4,7 @@
 <head><title>Welcome to my excellent blog</title></head>
 <body>
     <img src='storage/my-excellent-blog.png'>
-    <h1>Welcome to my excellent blog</h1>
+    <h1>Welcome to SMissaoui's excellent blog</h1>
 
     <?php
         $dbserver = getenv('DB_HOST') ?: 'db';
